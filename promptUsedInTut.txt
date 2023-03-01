@@ -1,0 +1,7 @@
+(character sheet of the same exact woman with auburn hair wearing a  white  leather jumpsuit:1.5), (((simple studio background))), reference sheet, HDR photograph by ((Ilya Kuvshinov)),  by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, style of CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski 
+
+
+deformed eyes, ((disfigured)), ((bad art)), ((deformed)), ((extra limbs)), (((duplicate))), ((morbid)), ((mutilated)), out of frame, extra fingers, mutated hands, poorly drawn eyes, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), cloned face, body out of frame, out of frame, bad anatomy, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), (fused fingers), (too many fingers), (((long neck))), tiling, poorly drawn, mutated, cross-eye, canvas frame, frame, cartoon, 3d, weird colors, blurry, writing on shirt, pony tail, bow in hair, hair tied up, writing on shirt, bag, hand bag, pocket-book, luggage, carrying bag
+
+
+Steps: 50, Sampler: Euler a, CFG scale: 7, Seed:3555234409, Size: 1024x512, Model hash: 9e9fa0d822, Denoising strength: 0.7, ControlNet-0 Enabled: True, ControlNet-0 Module: none, ControlNet-0 Model: control_sd15_openpose [fef5e48e], ControlNet-0 Weight: 2, ControlNet-0 Guidance Strength: 1, Hires upscale: 2, Hires upscaler: Latent
